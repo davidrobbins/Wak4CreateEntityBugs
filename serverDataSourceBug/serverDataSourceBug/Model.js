@@ -15,7 +15,7 @@ guidedModel =// @startlock
 			onInit:function()
 			{// @endlock
 				this.doors = 2;
-				this.wheels = 2;
+				this.wheels = 4;
 			}// @startlock
 		}
 	}

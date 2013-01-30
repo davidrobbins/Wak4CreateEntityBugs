@@ -184,3 +184,355 @@
 2013-01-30 09:34:32 [com.wakanda-software.serverDataSourceBug.ServerAdmin] INFO - Closing the project
 2013-01-30 09:34:32 [com.wakanda-software.serverDataSourceBug.ServerAdmin] INFO - Project closed (duration: 4 ms)
 2013-01-30 09:34:32 [com.wakanda-software.serverDataSourceBug] INFO - Solution closed (duration: 817 ms)
+2013-01-30 09:38:49 [com.wakanda-software.serverDataSourceBug] INFO - Opening the solution
+2013-01-30 09:38:49 [com.wakanda-software.serverDataSourceBug] INFO - Opening the users and groups directory
+2013-01-30 09:38:49 [com.wakanda-software.serverDataSourceBug] INFO - Users and groups directory opened (duration: 33 ms)
+2013-01-30 09:38:49 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Opening the project
+2013-01-30 09:38:49 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Opening the database
+2013-01-30 09:38:49 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Database opened (duration: 7 ms)
+2013-01-30 09:38:49 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Project opened (duration: 31 ms)
+2013-01-30 09:38:49 [com.wakanda-software.serverDataSourceBug.ServerAdmin] INFO - Opening the project
+2013-01-30 09:38:49 [com.wakanda-software.serverDataSourceBug.ServerAdmin] INFO - Project opened (duration: 6 ms)
+2013-01-30 09:38:49 [com.wakanda-software.serverDataSourceBug] INFO - Solution opened (duration: 103 ms)
+2013-01-30 09:38:49 [com.wakanda-software.serverDataSourceBug] INFO - Starting the solution
+2013-01-30 09:38:49 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Starting the project
+2013-01-30 09:38:49 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Starting the HTTP server
+2013-01-30 09:38:49 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - HTTP server started (duration: 29 ms)
+2013-01-30 09:38:49 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Project started (duration: 80 ms)
+2013-01-30 09:38:49 [com.wakanda-software.serverDataSourceBug.ServerAdmin] INFO - Starting the project
+2013-01-30 09:38:49 [com.wakanda-software.serverDataSourceBug.ServerAdmin] INFO - Starting the HTTP server
+2013-01-30 09:38:49 [com.wakanda-software.serverDataSourceBug.ServerAdmin] INFO - HTTP server started (duration: 32 ms)
+2013-01-30 09:38:49 [com.wakanda-software.serverDataSourceBug.ServerAdmin] INFO - Project started (duration: 96 ms)
+2013-01-30 09:38:49 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Executing the bootstrap(s)
+2013-01-30 09:38:49 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Bootstrap(s) executed (duration: 0 ms)
+2013-01-30 09:38:49 [com.wakanda-software.serverDataSourceBug.ServerAdmin] INFO - Executing the bootstrap(s)
+2013-01-30 09:38:49 [com.wakanda-software.serverDataSourceBug.ServerAdmin] INFO - Bootstrap(s) executed (duration: 9 ms)
+2013-01-30 09:38:49 [com.wakanda-software.serverDataSourceBug] INFO - Solution started (duration: 187 ms)
+2013-01-30 09:40:25 [com.wakanda-software.serverDataSourceBug] INFO - Stopping the solution
+2013-01-30 09:40:25 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Stopping the project
+2013-01-30 09:40:26 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Project stopped (duration: 1063 ms)
+2013-01-30 09:40:26 [com.wakanda-software.serverDataSourceBug.ServerAdmin] INFO - Stopping the project
+2013-01-30 09:40:29 [com.wakanda-software.serverDataSourceBug.ServerAdmin] INFO - Project stopped (duration: 2062 ms)
+2013-01-30 09:40:29 [com.wakanda-software.serverDataSourceBug] INFO - Solution stopped (duration: 3126 ms)
+2013-01-30 09:40:29 [com.wakanda-software.serverDataSourceBug] INFO - Closing the solution
+2013-01-30 09:40:29 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Closing the project
+2013-01-30 09:40:29 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Closing the database
+2013-01-30 09:40:29 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Database closed (duration: 444 ms)
+2013-01-30 09:40:29 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Project closed (duration: 525 ms)
+2013-01-30 09:40:29 [com.wakanda-software.serverDataSourceBug.ServerAdmin] INFO - Closing the project
+2013-01-30 09:40:29 [com.wakanda-software.serverDataSourceBug.ServerAdmin] INFO - Project closed (duration: 96 ms)
+2013-01-30 09:40:30 [com.wakanda-software.serverDataSourceBug] INFO - Solution closed (duration: 1098 ms)
+2013-01-30 09:41:04 [com.wakanda-software.serverDataSourceBug] INFO - Opening the solution
+2013-01-30 09:41:04 [com.wakanda-software.serverDataSourceBug] INFO - Opening the users and groups directory
+2013-01-30 09:41:04 [com.wakanda-software.serverDataSourceBug] INFO - Users and groups directory opened (duration: 20 ms)
+2013-01-30 09:41:04 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Opening the project
+2013-01-30 09:41:04 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Opening the database
+2013-01-30 09:41:04 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Database opened (duration: 5 ms)
+2013-01-30 09:41:04 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Project opened (duration: 17 ms)
+2013-01-30 09:41:04 [com.wakanda-software.serverDataSourceBug.ServerAdmin] INFO - Opening the project
+2013-01-30 09:41:04 [com.wakanda-software.serverDataSourceBug.ServerAdmin] INFO - Project opened (duration: 6 ms)
+2013-01-30 09:41:04 [com.wakanda-software.serverDataSourceBug] INFO - Solution opened (duration: 75 ms)
+2013-01-30 09:41:04 [com.wakanda-software.serverDataSourceBug] INFO - Starting the solution
+2013-01-30 09:41:04 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Starting the project
+2013-01-30 09:41:04 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Starting the HTTP server
+2013-01-30 09:41:04 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - HTTP server started (duration: 30 ms)
+2013-01-30 09:41:04 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Project started (duration: 80 ms)
+2013-01-30 09:41:04 [com.wakanda-software.serverDataSourceBug.ServerAdmin] INFO - Starting the project
+2013-01-30 09:41:04 [com.wakanda-software.serverDataSourceBug.ServerAdmin] INFO - Starting the HTTP server
+2013-01-30 09:41:04 [com.wakanda-software.serverDataSourceBug.ServerAdmin] INFO - HTTP server started (duration: 33 ms)
+2013-01-30 09:41:04 [com.wakanda-software.serverDataSourceBug.ServerAdmin] INFO - Project started (duration: 78 ms)
+2013-01-30 09:41:04 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Executing the bootstrap(s)
+2013-01-30 09:41:04 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Bootstrap(s) executed (duration: 0 ms)
+2013-01-30 09:41:04 [com.wakanda-software.serverDataSourceBug.ServerAdmin] INFO - Executing the bootstrap(s)
+2013-01-30 09:41:04 [com.wakanda-software.serverDataSourceBug.ServerAdmin] INFO - Bootstrap(s) executed (duration: 9 ms)
+2013-01-30 09:41:04 [com.wakanda-software.serverDataSourceBug] INFO - Solution started (duration: 170 ms)
+2013-01-30 09:44:44 [com.wakanda-software.serverDataSourceBug] INFO - Stopping the solution
+2013-01-30 09:44:44 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Stopping the project
+2013-01-30 09:44:45 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Project stopped (duration: 1064 ms)
+2013-01-30 09:44:45 [com.wakanda-software.serverDataSourceBug.ServerAdmin] INFO - Stopping the project
+2013-01-30 09:44:47 [com.wakanda-software.serverDataSourceBug.ServerAdmin] INFO - Project stopped (duration: 2063 ms)
+2013-01-30 09:44:47 [com.wakanda-software.serverDataSourceBug] INFO - Solution stopped (duration: 3128 ms)
+2013-01-30 09:44:47 [com.wakanda-software.serverDataSourceBug] INFO - Closing the solution
+2013-01-30 09:44:47 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Closing the project
+2013-01-30 09:44:47 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Closing the database
+2013-01-30 09:44:48 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Database closed (duration: 405 ms)
+2013-01-30 09:44:48 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Project closed (duration: 407 ms)
+2013-01-30 09:44:48 [com.wakanda-software.serverDataSourceBug.ServerAdmin] INFO - Closing the project
+2013-01-30 09:44:48 [com.wakanda-software.serverDataSourceBug.ServerAdmin] INFO - Project closed (duration: 1 ms)
+2013-01-30 09:44:48 [com.wakanda-software.serverDataSourceBug] INFO - Solution closed (duration: 814 ms)
+2013-01-30 09:45:31 [com.wakanda-software.serverDataSourceBug] INFO - Opening the solution
+2013-01-30 09:45:31 [com.wakanda-software.serverDataSourceBug] INFO - Opening the users and groups directory
+2013-01-30 09:45:31 [com.wakanda-software.serverDataSourceBug] INFO - Users and groups directory opened (duration: 26 ms)
+2013-01-30 09:45:31 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Opening the project
+2013-01-30 09:45:31 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Opening the database
+2013-01-30 09:45:31 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Database opened (duration: 6 ms)
+2013-01-30 09:45:31 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Project opened (duration: 18 ms)
+2013-01-30 09:45:31 [com.wakanda-software.serverDataSourceBug.ServerAdmin] INFO - Opening the project
+2013-01-30 09:45:31 [com.wakanda-software.serverDataSourceBug.ServerAdmin] INFO - Project opened (duration: 6 ms)
+2013-01-30 09:45:31 [com.wakanda-software.serverDataSourceBug] INFO - Solution opened (duration: 82 ms)
+2013-01-30 09:45:31 [com.wakanda-software.serverDataSourceBug] INFO - Starting the solution
+2013-01-30 09:45:31 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Starting the project
+2013-01-30 09:45:31 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Starting the HTTP server
+2013-01-30 09:45:31 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - HTTP server started (duration: 30 ms)
+2013-01-30 09:45:31 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Project started (duration: 80 ms)
+2013-01-30 09:45:31 [com.wakanda-software.serverDataSourceBug.ServerAdmin] INFO - Starting the project
+2013-01-30 09:45:31 [com.wakanda-software.serverDataSourceBug.ServerAdmin] INFO - Starting the HTTP server
+2013-01-30 09:45:31 [com.wakanda-software.serverDataSourceBug.ServerAdmin] INFO - HTTP server started (duration: 33 ms)
+2013-01-30 09:45:31 [com.wakanda-software.serverDataSourceBug.ServerAdmin] INFO - Project started (duration: 78 ms)
+2013-01-30 09:45:31 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Executing the bootstrap(s)
+2013-01-30 09:45:31 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Bootstrap(s) executed (duration: 0 ms)
+2013-01-30 09:45:31 [com.wakanda-software.serverDataSourceBug.ServerAdmin] INFO - Executing the bootstrap(s)
+2013-01-30 09:45:31 [com.wakanda-software.serverDataSourceBug.ServerAdmin] INFO - Bootstrap(s) executed (duration: 9 ms)
+2013-01-30 09:45:31 [com.wakanda-software.serverDataSourceBug] INFO - Solution started (duration: 170 ms)
+2013-01-30 09:51:55 [com.wakanda-software.serverDataSourceBug] INFO - Stopping the solution
+2013-01-30 09:51:55 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Stopping the project
+2013-01-30 09:51:56 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Project stopped (duration: 1064 ms)
+2013-01-30 09:51:56 [com.wakanda-software.serverDataSourceBug.ServerAdmin] INFO - Stopping the project
+2013-01-30 09:51:58 [com.wakanda-software.serverDataSourceBug.ServerAdmin] INFO - Project stopped (duration: 2065 ms)
+2013-01-30 09:51:58 [com.wakanda-software.serverDataSourceBug] INFO - Solution stopped (duration: 3130 ms)
+2013-01-30 09:51:58 [com.wakanda-software.serverDataSourceBug] INFO - Closing the solution
+2013-01-30 09:51:58 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Closing the project
+2013-01-30 09:51:58 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Closing the database
+2013-01-30 09:51:58 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Database closed (duration: 406 ms)
+2013-01-30 09:51:58 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Project closed (duration: 408 ms)
+2013-01-30 09:51:58 [com.wakanda-software.serverDataSourceBug.ServerAdmin] INFO - Closing the project
+2013-01-30 09:51:58 [com.wakanda-software.serverDataSourceBug.ServerAdmin] INFO - Project closed (duration: 1 ms)
+2013-01-30 09:51:59 [com.wakanda-software.serverDataSourceBug] INFO - Solution closed (duration: 815 ms)
+2013-01-30 09:52:26 [com.wakanda-software.serverDataSourceBug] INFO - Opening the solution
+2013-01-30 09:52:26 [com.wakanda-software.serverDataSourceBug] INFO - Opening the users and groups directory
+2013-01-30 09:52:26 [com.wakanda-software.serverDataSourceBug] INFO - Users and groups directory opened (duration: 11 ms)
+2013-01-30 09:52:26 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Opening the project
+2013-01-30 09:52:26 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Opening the database
+2013-01-30 09:52:26 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Database opened (duration: 5 ms)
+2013-01-30 09:52:26 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Project opened (duration: 22 ms)
+2013-01-30 09:52:26 [com.wakanda-software.serverDataSourceBug.ServerAdmin] INFO - Opening the project
+2013-01-30 09:52:26 [com.wakanda-software.serverDataSourceBug.ServerAdmin] INFO - Project opened (duration: 6 ms)
+2013-01-30 09:52:26 [com.wakanda-software.serverDataSourceBug] INFO - Solution opened (duration: 73 ms)
+2013-01-30 09:52:26 [com.wakanda-software.serverDataSourceBug] INFO - Starting the solution
+2013-01-30 09:52:26 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Starting the project
+2013-01-30 09:52:26 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Starting the HTTP server
+2013-01-30 09:52:26 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - HTTP server started (duration: 34 ms)
+2013-01-30 09:52:26 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Project started (duration: 88 ms)
+2013-01-30 09:52:26 [com.wakanda-software.serverDataSourceBug.ServerAdmin] INFO - Starting the project
+2013-01-30 09:52:26 [com.wakanda-software.serverDataSourceBug.ServerAdmin] INFO - Starting the HTTP server
+2013-01-30 09:52:26 [com.wakanda-software.serverDataSourceBug.ServerAdmin] INFO - HTTP server started (duration: 36 ms)
+2013-01-30 09:52:26 [com.wakanda-software.serverDataSourceBug.ServerAdmin] INFO - Project started (duration: 84 ms)
+2013-01-30 09:52:26 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Executing the bootstrap(s)
+2013-01-30 09:52:26 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Bootstrap(s) executed (duration: 0 ms)
+2013-01-30 09:52:26 [com.wakanda-software.serverDataSourceBug.ServerAdmin] INFO - Executing the bootstrap(s)
+2013-01-30 09:52:26 [com.wakanda-software.serverDataSourceBug.ServerAdmin] INFO - Bootstrap(s) executed (duration: 10 ms)
+2013-01-30 09:52:26 [com.wakanda-software.serverDataSourceBug] INFO - Solution started (duration: 184 ms)
+2013-01-30 09:52:56 [com.wakanda-software.serverDataSourceBug] INFO - Stopping the solution
+2013-01-30 09:52:56 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Stopping the project
+2013-01-30 09:52:57 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Project stopped (duration: 1060 ms)
+2013-01-30 09:52:57 [com.wakanda-software.serverDataSourceBug.ServerAdmin] INFO - Stopping the project
+2013-01-30 09:53:00 [com.wakanda-software.serverDataSourceBug.ServerAdmin] INFO - Project stopped (duration: 2063 ms)
+2013-01-30 09:53:00 [com.wakanda-software.serverDataSourceBug] INFO - Solution stopped (duration: 3124 ms)
+2013-01-30 09:53:00 [com.wakanda-software.serverDataSourceBug] INFO - Closing the solution
+2013-01-30 09:53:00 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Closing the project
+2013-01-30 09:53:00 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Closing the database
+2013-01-30 09:53:00 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Database closed (duration: 405 ms)
+2013-01-30 09:53:00 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Project closed (duration: 405 ms)
+2013-01-30 09:53:00 [com.wakanda-software.serverDataSourceBug.ServerAdmin] INFO - Closing the project
+2013-01-30 09:53:00 [com.wakanda-software.serverDataSourceBug.ServerAdmin] INFO - Project closed (duration: 2 ms)
+2013-01-30 09:53:00 [com.wakanda-software.serverDataSourceBug] INFO - Solution closed (duration: 814 ms)
+2013-01-30 09:53:00 [com.wakanda-software.serverDataSourceBug] INFO - Opening the solution
+2013-01-30 09:53:00 [com.wakanda-software.serverDataSourceBug] INFO - Opening the users and groups directory
+2013-01-30 09:53:00 [com.wakanda-software.serverDataSourceBug] INFO - Users and groups directory opened (duration: 8 ms)
+2013-01-30 09:53:00 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Opening the project
+2013-01-30 09:53:00 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Opening the database
+2013-01-30 09:53:00 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Database opened (duration: 5 ms)
+2013-01-30 09:53:00 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Project opened (duration: 11 ms)
+2013-01-30 09:53:00 [com.wakanda-software.serverDataSourceBug.ServerAdmin] INFO - Opening the project
+2013-01-30 09:53:00 [com.wakanda-software.serverDataSourceBug.ServerAdmin] INFO - Project opened (duration: 5 ms)
+2013-01-30 09:53:00 [com.wakanda-software.serverDataSourceBug] INFO - Solution opened (duration: 56 ms)
+2013-01-30 09:53:00 [com.wakanda-software.serverDataSourceBug] INFO - Starting the solution
+2013-01-30 09:53:00 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Starting the project
+2013-01-30 09:53:00 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Starting the HTTP server
+2013-01-30 09:53:00 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - HTTP server started (duration: 30 ms)
+2013-01-30 09:53:00 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Project started (duration: 72 ms)
+2013-01-30 09:53:00 [com.wakanda-software.serverDataSourceBug.ServerAdmin] INFO - Starting the project
+2013-01-30 09:53:01 [com.wakanda-software.serverDataSourceBug.ServerAdmin] INFO - Starting the HTTP server
+2013-01-30 09:53:01 [com.wakanda-software.serverDataSourceBug.ServerAdmin] INFO - HTTP server started (duration: 33 ms)
+2013-01-30 09:53:01 [com.wakanda-software.serverDataSourceBug.ServerAdmin] INFO - Project started (duration: 80 ms)
+2013-01-30 09:53:01 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Executing the bootstrap(s)
+2013-01-30 09:53:01 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Bootstrap(s) executed (duration: 0 ms)
+2013-01-30 09:53:01 [com.wakanda-software.serverDataSourceBug.ServerAdmin] INFO - Executing the bootstrap(s)
+2013-01-30 09:53:01 [com.wakanda-software.serverDataSourceBug.ServerAdmin] INFO - Bootstrap(s) executed (duration: 9 ms)
+2013-01-30 09:53:01 [com.wakanda-software.serverDataSourceBug] INFO - Solution started (duration: 163 ms)
+2013-01-30 09:58:17 [com.wakanda-software.serverDataSourceBug] INFO - Stopping the solution
+2013-01-30 09:58:17 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Stopping the project
+2013-01-30 09:58:20 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Project stopped (duration: 2058 ms)
+2013-01-30 09:58:20 [com.wakanda-software.serverDataSourceBug.ServerAdmin] INFO - Stopping the project
+2013-01-30 09:58:22 [com.wakanda-software.serverDataSourceBug.ServerAdmin] INFO - Project stopped (duration: 2061 ms)
+2013-01-30 09:58:22 [com.wakanda-software.serverDataSourceBug] INFO - Solution stopped (duration: 4120 ms)
+2013-01-30 09:58:22 [com.wakanda-software.serverDataSourceBug] INFO - Closing the solution
+2013-01-30 09:58:22 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Closing the project
+2013-01-30 09:58:22 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Closing the database
+2013-01-30 09:58:22 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Database closed (duration: 405 ms)
+2013-01-30 09:58:22 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Project closed (duration: 408 ms)
+2013-01-30 09:58:22 [com.wakanda-software.serverDataSourceBug.ServerAdmin] INFO - Closing the project
+2013-01-30 09:58:22 [com.wakanda-software.serverDataSourceBug.ServerAdmin] INFO - Project closed (duration: 1 ms)
+2013-01-30 09:58:22 [com.wakanda-software.serverDataSourceBug] INFO - Solution closed (duration: 817 ms)
+2013-01-30 09:58:22 [com.wakanda-software.serverDataSourceBug] INFO - Opening the solution
+2013-01-30 09:58:22 [com.wakanda-software.serverDataSourceBug] INFO - Opening the users and groups directory
+2013-01-30 09:58:22 [com.wakanda-software.serverDataSourceBug] INFO - Users and groups directory opened (duration: 8 ms)
+2013-01-30 09:58:22 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Opening the project
+2013-01-30 09:58:22 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Opening the database
+2013-01-30 09:58:22 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Database opened (duration: 5 ms)
+2013-01-30 09:58:22 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Project opened (duration: 10 ms)
+2013-01-30 09:58:22 [com.wakanda-software.serverDataSourceBug.ServerAdmin] INFO - Opening the project
+2013-01-30 09:58:22 [com.wakanda-software.serverDataSourceBug.ServerAdmin] INFO - Project opened (duration: 5 ms)
+2013-01-30 09:58:22 [com.wakanda-software.serverDataSourceBug] INFO - Solution opened (duration: 53 ms)
+2013-01-30 09:58:22 [com.wakanda-software.serverDataSourceBug] INFO - Starting the solution
+2013-01-30 09:58:22 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Starting the project
+2013-01-30 09:58:23 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Starting the HTTP server
+2013-01-30 09:58:23 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - HTTP server started (duration: 28 ms)
+2013-01-30 09:58:23 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Project started (duration: 69 ms)
+2013-01-30 09:58:23 [com.wakanda-software.serverDataSourceBug.ServerAdmin] INFO - Starting the project
+2013-01-30 09:58:23 [com.wakanda-software.serverDataSourceBug.ServerAdmin] INFO - Starting the HTTP server
+2013-01-30 09:58:23 [com.wakanda-software.serverDataSourceBug.ServerAdmin] INFO - HTTP server started (duration: 31 ms)
+2013-01-30 09:58:23 [com.wakanda-software.serverDataSourceBug.ServerAdmin] INFO - Project started (duration: 73 ms)
+2013-01-30 09:58:23 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Executing the bootstrap(s)
+2013-01-30 09:58:23 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Bootstrap(s) executed (duration: 0 ms)
+2013-01-30 09:58:23 [com.wakanda-software.serverDataSourceBug.ServerAdmin] INFO - Executing the bootstrap(s)
+2013-01-30 09:58:23 [com.wakanda-software.serverDataSourceBug.ServerAdmin] INFO - Bootstrap(s) executed (duration: 9 ms)
+2013-01-30 09:58:23 [com.wakanda-software.serverDataSourceBug] INFO - Solution started (duration: 154 ms)
+2013-01-30 09:58:45 [com.wakanda-software.serverDataSourceBug] INFO - Opening the solution
+2013-01-30 09:58:45 [com.wakanda-software.serverDataSourceBug] INFO - Opening the users and groups directory
+2013-01-30 09:58:45 [com.wakanda-software.serverDataSourceBug] INFO - Users and groups directory opened (duration: 22 ms)
+2013-01-30 09:58:45 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Opening the project
+2013-01-30 09:58:45 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Opening the database
+2013-01-30 09:58:45 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Database opened (duration: 5 ms)
+2013-01-30 09:58:45 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Project opened (duration: 20 ms)
+2013-01-30 09:58:45 [com.wakanda-software.serverDataSourceBug.ServerAdmin] INFO - Opening the project
+2013-01-30 09:58:45 [com.wakanda-software.serverDataSourceBug.ServerAdmin] INFO - Project opened (duration: 6 ms)
+2013-01-30 09:58:45 [com.wakanda-software.serverDataSourceBug] INFO - Solution opened (duration: 80 ms)
+2013-01-30 09:58:45 [com.wakanda-software.serverDataSourceBug] INFO - Starting the solution
+2013-01-30 09:58:45 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Starting the project
+2013-01-30 09:58:46 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Starting the HTTP server
+2013-01-30 09:58:46 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - HTTP server started (duration: 29 ms)
+2013-01-30 09:58:46 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Project started (duration: 79 ms)
+2013-01-30 09:58:46 [com.wakanda-software.serverDataSourceBug.ServerAdmin] INFO - Starting the project
+2013-01-30 09:58:46 [com.wakanda-software.serverDataSourceBug.ServerAdmin] INFO - Starting the HTTP server
+2013-01-30 09:58:46 [com.wakanda-software.serverDataSourceBug.ServerAdmin] INFO - HTTP server started (duration: 32 ms)
+2013-01-30 09:58:46 [com.wakanda-software.serverDataSourceBug.ServerAdmin] INFO - Project started (duration: 78 ms)
+2013-01-30 09:58:46 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Executing the bootstrap(s)
+2013-01-30 09:58:46 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Bootstrap(s) executed (duration: 0 ms)
+2013-01-30 09:58:46 [com.wakanda-software.serverDataSourceBug.ServerAdmin] INFO - Executing the bootstrap(s)
+2013-01-30 09:58:46 [com.wakanda-software.serverDataSourceBug.ServerAdmin] INFO - Bootstrap(s) executed (duration: 9 ms)
+2013-01-30 09:58:46 [com.wakanda-software.serverDataSourceBug] INFO - Solution started (duration: 168 ms)
+2013-01-30 09:59:10 [com.wakanda-software.serverDataSourceBug] INFO - Stopping the solution
+2013-01-30 09:59:10 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Stopping the project
+2013-01-30 09:59:11 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Project stopped (duration: 1057 ms)
+2013-01-30 09:59:11 [com.wakanda-software.serverDataSourceBug.ServerAdmin] INFO - Stopping the project
+2013-01-30 09:59:13 [com.wakanda-software.serverDataSourceBug.ServerAdmin] INFO - Project stopped (duration: 2063 ms)
+2013-01-30 09:59:13 [com.wakanda-software.serverDataSourceBug] INFO - Solution stopped (duration: 3121 ms)
+2013-01-30 09:59:13 [com.wakanda-software.serverDataSourceBug] INFO - Closing the solution
+2013-01-30 09:59:13 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Closing the project
+2013-01-30 09:59:13 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Closing the database
+2013-01-30 09:59:13 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Database closed (duration: 405 ms)
+2013-01-30 09:59:13 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Project closed (duration: 406 ms)
+2013-01-30 09:59:13 [com.wakanda-software.serverDataSourceBug.ServerAdmin] INFO - Closing the project
+2013-01-30 09:59:13 [com.wakanda-software.serverDataSourceBug.ServerAdmin] INFO - Project closed (duration: 2 ms)
+2013-01-30 09:59:13 [com.wakanda-software.serverDataSourceBug] INFO - Solution closed (duration: 816 ms)
+2013-01-30 09:59:13 [com.wakanda-software.serverDataSourceBug] INFO - Opening the solution
+2013-01-30 09:59:13 [com.wakanda-software.serverDataSourceBug] INFO - Opening the users and groups directory
+2013-01-30 09:59:13 [com.wakanda-software.serverDataSourceBug] INFO - Users and groups directory opened (duration: 8 ms)
+2013-01-30 09:59:13 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Opening the project
+2013-01-30 09:59:14 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Opening the database
+2013-01-30 09:59:14 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Database opened (duration: 6 ms)
+2013-01-30 09:59:14 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Project opened (duration: 11 ms)
+2013-01-30 09:59:14 [com.wakanda-software.serverDataSourceBug.ServerAdmin] INFO - Opening the project
+2013-01-30 09:59:14 [com.wakanda-software.serverDataSourceBug.ServerAdmin] INFO - Project opened (duration: 5 ms)
+2013-01-30 09:59:14 [com.wakanda-software.serverDataSourceBug] INFO - Solution opened (duration: 55 ms)
+2013-01-30 09:59:14 [com.wakanda-software.serverDataSourceBug] INFO - Starting the solution
+2013-01-30 09:59:14 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Starting the project
+2013-01-30 09:59:14 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Starting the HTTP server
+2013-01-30 09:59:14 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - HTTP server started (duration: 29 ms)
+2013-01-30 09:59:14 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Project started (duration: 71 ms)
+2013-01-30 09:59:14 [com.wakanda-software.serverDataSourceBug.ServerAdmin] INFO - Starting the project
+2013-01-30 09:59:14 [com.wakanda-software.serverDataSourceBug.ServerAdmin] INFO - Starting the HTTP server
+2013-01-30 09:59:14 [com.wakanda-software.serverDataSourceBug.ServerAdmin] INFO - HTTP server started (duration: 32 ms)
+2013-01-30 09:59:14 [com.wakanda-software.serverDataSourceBug.ServerAdmin] INFO - Project started (duration: 75 ms)
+2013-01-30 09:59:14 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Executing the bootstrap(s)
+2013-01-30 09:59:14 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Bootstrap(s) executed (duration: 0 ms)
+2013-01-30 09:59:14 [com.wakanda-software.serverDataSourceBug.ServerAdmin] INFO - Executing the bootstrap(s)
+2013-01-30 09:59:14 [com.wakanda-software.serverDataSourceBug.ServerAdmin] INFO - Bootstrap(s) executed (duration: 9 ms)
+2013-01-30 09:59:14 [com.wakanda-software.serverDataSourceBug] INFO - Solution started (duration: 157 ms)
+2013-01-30 10:00:59 [com.wakanda-software.serverDataSourceBug] INFO - Stopping the solution
+2013-01-30 10:00:59 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Stopping the project
+2013-01-30 10:01:02 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Project stopped (duration: 2058 ms)
+2013-01-30 10:01:02 [com.wakanda-software.serverDataSourceBug.ServerAdmin] INFO - Stopping the project
+2013-01-30 10:01:04 [com.wakanda-software.serverDataSourceBug.ServerAdmin] INFO - Project stopped (duration: 2061 ms)
+2013-01-30 10:01:04 [com.wakanda-software.serverDataSourceBug] INFO - Solution stopped (duration: 4120 ms)
+2013-01-30 10:01:04 [com.wakanda-software.serverDataSourceBug] INFO - Closing the solution
+2013-01-30 10:01:04 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Closing the project
+2013-01-30 10:01:04 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Closing the database
+2013-01-30 10:01:04 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Database closed (duration: 407 ms)
+2013-01-30 10:01:04 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Project closed (duration: 409 ms)
+2013-01-30 10:01:04 [com.wakanda-software.serverDataSourceBug.ServerAdmin] INFO - Closing the project
+2013-01-30 10:01:04 [com.wakanda-software.serverDataSourceBug.ServerAdmin] INFO - Project closed (duration: 1 ms)
+2013-01-30 10:01:04 [com.wakanda-software.serverDataSourceBug] INFO - Solution closed (duration: 818 ms)
+2013-01-30 10:01:04 [com.wakanda-software.serverDataSourceBug] INFO - Opening the solution
+2013-01-30 10:01:04 [com.wakanda-software.serverDataSourceBug] INFO - Opening the users and groups directory
+2013-01-30 10:01:04 [com.wakanda-software.serverDataSourceBug] INFO - Users and groups directory opened (duration: 7 ms)
+2013-01-30 10:01:04 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Opening the project
+2013-01-30 10:01:04 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Opening the database
+2013-01-30 10:01:04 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Database opened (duration: 5 ms)
+2013-01-30 10:01:04 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Project opened (duration: 10 ms)
+2013-01-30 10:01:04 [com.wakanda-software.serverDataSourceBug.ServerAdmin] INFO - Opening the project
+2013-01-30 10:01:04 [com.wakanda-software.serverDataSourceBug.ServerAdmin] INFO - Project opened (duration: 5 ms)
+2013-01-30 10:01:04 [com.wakanda-software.serverDataSourceBug] INFO - Solution opened (duration: 53 ms)
+2013-01-30 10:01:04 [com.wakanda-software.serverDataSourceBug] INFO - Starting the solution
+2013-01-30 10:01:04 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Starting the project
+2013-01-30 10:01:05 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Starting the HTTP server
+2013-01-30 10:01:05 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - HTTP server started (duration: 29 ms)
+2013-01-30 10:01:05 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Project started (duration: 70 ms)
+2013-01-30 10:01:05 [com.wakanda-software.serverDataSourceBug.ServerAdmin] INFO - Starting the project
+2013-01-30 10:01:05 [com.wakanda-software.serverDataSourceBug.ServerAdmin] INFO - Starting the HTTP server
+2013-01-30 10:01:05 [com.wakanda-software.serverDataSourceBug.ServerAdmin] INFO - HTTP server started (duration: 31 ms)
+2013-01-30 10:01:05 [com.wakanda-software.serverDataSourceBug.ServerAdmin] INFO - Project started (duration: 73 ms)
+2013-01-30 10:01:05 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Executing the bootstrap(s)
+2013-01-30 10:01:05 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Bootstrap(s) executed (duration: 0 ms)
+2013-01-30 10:01:05 [com.wakanda-software.serverDataSourceBug.ServerAdmin] INFO - Executing the bootstrap(s)
+2013-01-30 10:01:05 [com.wakanda-software.serverDataSourceBug.ServerAdmin] INFO - Bootstrap(s) executed (duration: 9 ms)
+2013-01-30 10:01:05 [com.wakanda-software.serverDataSourceBug] INFO - Solution started (duration: 155 ms)
+2013-01-30 10:07:16 [com.wakanda-software.serverDataSourceBug] INFO - Opening the solution
+2013-01-30 10:07:17 [com.wakanda-software.serverDataSourceBug] INFO - Opening the users and groups directory
+2013-01-30 10:07:17 [com.wakanda-software.serverDataSourceBug] INFO - Users and groups directory opened (duration: 128 ms)
+2013-01-30 10:07:17 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Opening the project
+2013-01-30 10:07:17 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Opening the database
+2013-01-30 10:07:17 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Database opened (duration: 13 ms)
+2013-01-30 10:07:17 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Project opened (duration: 48 ms)
+2013-01-30 10:07:17 [com.wakanda-software.serverDataSourceBug.ServerAdmin] INFO - Opening the project
+2013-01-30 10:07:17 [com.wakanda-software.serverDataSourceBug.ServerAdmin] INFO - Project opened (duration: 9 ms)
+2013-01-30 10:07:17 [com.wakanda-software.serverDataSourceBug] INFO - Solution opened (duration: 244 ms)
+2013-01-30 10:07:17 [com.wakanda-software.serverDataSourceBug] INFO - Starting the solution
+2013-01-30 10:07:17 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Starting the project
+2013-01-30 10:07:17 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Starting the HTTP server
+2013-01-30 10:07:17 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - HTTP server started (duration: 39 ms)
+2013-01-30 10:07:17 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Project started (duration: 116 ms)
+2013-01-30 10:07:17 [com.wakanda-software.serverDataSourceBug.ServerAdmin] INFO - Starting the project
+2013-01-30 10:07:17 [com.wakanda-software.serverDataSourceBug.ServerAdmin] INFO - Starting the HTTP server
+2013-01-30 10:07:17 [com.wakanda-software.serverDataSourceBug.ServerAdmin] INFO - HTTP server started (duration: 44 ms)
+2013-01-30 10:07:17 [com.wakanda-software.serverDataSourceBug.ServerAdmin] INFO - Project started (duration: 105 ms)
+2013-01-30 10:07:17 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Executing the bootstrap(s)
+2013-01-30 10:07:17 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Bootstrap(s) executed (duration: 6 ms)
+2013-01-30 10:07:17 [com.wakanda-software.serverDataSourceBug.ServerAdmin] INFO - Executing the bootstrap(s)
+2013-01-30 10:07:17 [com.wakanda-software.serverDataSourceBug.ServerAdmin] INFO - Bootstrap(s) executed (duration: 13 ms)
+2013-01-30 10:07:17 [com.wakanda-software.serverDataSourceBug] INFO - Solution started (duration: 244 ms)
+2013-01-30 10:09:39 [com.wakanda-software.serverDataSourceBug] INFO - Stopping the solution
+2013-01-30 10:09:39 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Stopping the project
+2013-01-30 10:09:40 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Project stopped (duration: 1085 ms)
+2013-01-30 10:09:40 [com.wakanda-software.serverDataSourceBug.ServerAdmin] INFO - Stopping the project
+2013-01-30 10:09:43 [com.wakanda-software.serverDataSourceBug.ServerAdmin] INFO - Project stopped (duration: 2081 ms)
+2013-01-30 10:09:43 [com.wakanda-software.serverDataSourceBug] INFO - Solution stopped (duration: 3166 ms)
+2013-01-30 10:09:43 [com.wakanda-software.serverDataSourceBug] INFO - Closing the solution
+2013-01-30 10:09:43 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Closing the project
+2013-01-30 10:09:43 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Closing the database
+2013-01-30 10:09:43 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Database closed (duration: 404 ms)
+2013-01-30 10:09:43 [com.wakanda-software.serverDataSourceBug.serverDataSourceBug] INFO - Project closed (duration: 408 ms)
+2013-01-30 10:09:43 [com.wakanda-software.serverDataSourceBug.ServerAdmin] INFO - Closing the project
+2013-01-30 10:09:43 [com.wakanda-software.serverDataSourceBug.ServerAdmin] INFO - Project closed (duration: 2 ms)
+2013-01-30 10:09:43 [com.wakanda-software.serverDataSourceBug] INFO - Solution closed (duration: 817 ms)

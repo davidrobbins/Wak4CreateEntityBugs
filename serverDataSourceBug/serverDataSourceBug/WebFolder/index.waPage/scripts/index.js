@@ -25,7 +25,7 @@ WAF.onAfterInit = function onAfterInit() {// @lock
 	button4.click = function button4_click (event)// @startlock
 	{// @endlock
 		//Create Entity - Use Server Class Method to run Init Code on Server.
-		waf.sources.car.createNewCar({
+		waf.sources.car.newCar({
 			onSuccess: function(event) {
 				waf.sources.car.setCurrentEntity(event.result);
 			}
@@ -35,8 +35,8 @@ WAF.onAfterInit = function onAfterInit() {// @lock
 	button3.click = function button3_click (event)// @startlock
 	{// @endlock
 		//Create Entity - Use Server Refresh to run Init Code on Server.
-		waf.sources.task.addNewElement();
-		waf.sources.task.serverRefresh();
+		waf.sources.car.addNewElement();
+		waf.sources.car.serverRefresh();
 	};// @lock
 
 // @region eventManager// @startlock
